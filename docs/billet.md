@@ -14,12 +14,12 @@
  - Mots-clés : Sécurité, Bonnes pratiques, Développement, OWASP
 
 ## Support
- - Non re-diffusé
- - Nombre de diapos du support : Non disponble
- - Plan du support : Non-restitué
+ - Non re-diffusé [lien vers la même présentation (en anglais)](https://www.youtube.com/watch?v=ipM1_7uPC38)
+ - Nombre de diapos du support : Non disponble (pas de diapositives mais une présentation à l'aide d'applications)
+ - Plan du support : 
 
 ## Résumé
-...
+
 
 ## Architecture et facteur qualité
-...
+
