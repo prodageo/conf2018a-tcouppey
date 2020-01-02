@@ -2,24 +2,21 @@
 
 ## Cartouche d'identification
 
- - Manifestation : CodeursEnSeine 2017
- - Lieu : Université de Rouen - site du Madrillet
- - Conférence : ...
- - Horaire de la conférence : ...
- - Durée de la conférence : ...
+ - Manifestation : CodeursEnSeine 2019
+ - Lieu : Kindarena
+ - Conférence : Comment se faire hacker bien comme il faut! 
+ - Horaire de la conférence : 11h
+ - Durée de la conférence : 1h
  - Conférencier(s) :
-   - ... (lien vers au moins un réseau social : LinkedIn, Twitter, site personnel, ...)
-   - ...
- - Audience : ...
- - Auteur du billet : ...
- - Mots-clés
- - URL de l'illustration : ![Mettre votre image, Photo by Oscar Keys on Unsplash](oscar-keys-58399-unsplash.jpg)
-   - quelques sources : https://unsplash.com, https://xkcd.com/, http://dev.to/rly, ...
+   - [Julien Topçu (Société Générale & OWASP fundation)](https://twitter.com/JulienTopcu)
+ - Audience : 200 personnes
+ - Auteur du billet : Théo COUPPEY
+ - Mots-clés : Sécurité, Bonnes pratiques, Développement, OWASP
 
 ## Support
- - Lien vers le support (diapos) présenté en conférence
- - Nombre de diapos du support :
- - Plan du support :
+ - Non re-diffusé
+ - Nombre de diapos du support : Non disponble
+ - Plan du support : Non-restitué
 
 ## Résumé
 ...
