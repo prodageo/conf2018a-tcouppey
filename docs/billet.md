@@ -1,3 +1,6 @@
+# Comment se faire hacker bien comme il faut! par Julien Topçu
+ - tcouppey
+ 
 ## Cartouche d'identification
 
  - Manifestation : CodeursEnSeine 2019
@@ -10,6 +13,9 @@
  - Audience : 250 personnes
  - Auteur du billet : Théo COUPPEY
  - Mots-clés : Sécurité, Bonnes pratiques, Développement, OWASP
+ - URL de l'illustration : 
+ 
+ ![](https://mcdn.wallpapersafari.com/medium/93/78/WfPIYV.png)
 
 ## Support
  - Non re-diffusé [lien vers la même présentation (en anglais)](https://www.youtube.com/watch?v=ipM1_7uPC38)
@@ -34,3 +40,4 @@
   
 ## Architecture et facteur qualité
 
+  Cette conférence porte sur le 4ème factueur qualité de McCall : Integity, la Sécurité. C'est à dire que l'on vérifie et protège les accès au code et aux données de notre logiciel. Par exemple, l'injection SQL présente tout ces aspects. Une faille tel que celle-ci permet un accès non autorisé aux données (BD utilisateur/mot de passe) puis peut offrir un accès administrateur (non-autorisé) et donc un accès au code et à l'intégrité de l'application.
